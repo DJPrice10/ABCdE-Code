@@ -36,4 +36,4 @@ Bayesian Experimental Designs using ABC: A Case Study in Optimal Observation of 
 by David J. Price, Nigel G. Bean, Joshua V. Ross and Jonathan Tuke.
 
 
-Please direct any questions or comments about the code to david.j.price@adelaide.edu.au.
+Please direct any questions or comments about the code to david.j.price@alumni.adelaide.edu.au.
