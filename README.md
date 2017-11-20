@@ -1,5 +1,10 @@
 # ABCdE-Code
-Code to implement ABCdE, from Price et al. (2016) J. Stat. Plan. &amp; Inf.
+Code to implement ABCdE, from Price et al. (2016) J. Stat. Plan. &amp; Inf. 172 for the stochastic Death model.
+
+
+If you utilise this code and/or method, please cite our paper "On the Efficient Determination of Optimal 
+Bayesian Experimental Designs using ABC: A Case Study in Optimal Observation of Epidemics", 
+by David J. Price, Nigel G. Bean, Joshua V. Ross and Jonathan Tuke.
 
 
 
@@ -29,11 +34,6 @@ Please also note that the code is correct for the examples we have considered, h
 guarantee that there will not be an issue if aspects of the code are changed to consider alternative
 input (i.e., other prior distributions). Care must be taken to ensure all aspects of the code are correct for 
 alternative examples.
-
-
-If you utilise this code and/or method, please cite our paper "On the Efficient Determination of Optimal 
-Bayesian Experimental Designs using ABC: A Case Study in Optimal Observation of Epidemics", 
-by David J. Price, Nigel G. Bean, Joshua V. Ross and Jonathan Tuke.
 
 
 Please direct any questions or comments about the code to david.j.price@alumni.adelaide.edu.au.
