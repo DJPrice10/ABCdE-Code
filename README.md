@@ -1,5 +1,5 @@
 # ABCdE-Code
-Code to implement ABCdE, from Price et al. (2016) J. Stat. Plan. &amp; Inf. 172 for the stochastic Death model.
+Code to implement ABCdE algorithm from Price et al. (2016) J. Stat. Plan. &amp; Inf. 172 for the stochastic Death model.
 
 
 If you utilise this code and/or method, please cite our paper "On the Efficient Determination of Optimal 
